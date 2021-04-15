@@ -67,4 +67,4 @@ The necessary files can be downloaded here:
 - This project was really fun to work on. I would definately recommend it to others as well, for anyone who may want to devle into playing either fighting games, or old retro arcade games.
 
 
-Video Link
+[Video Link](https://www.youtube.com/watch?v=enM0st6y20A)
