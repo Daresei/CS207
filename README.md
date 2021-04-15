@@ -2,6 +2,8 @@
 ##### For CS 207 at The University of Regina
 
 ## Fightsticks for PC
+
+
 - Inspiration for Project:
 There are multiple quality fight sticks out there, from Etokki, Razer, Hori, and MadCatz, each one of these brands will run a person around $250 CAD. Which seems like an expense that could be avoided on an arcade fightstick you may not feel comfortable on. That's why I thought it would be best to create my own fight stick, one made just for me, by me.
 It may seem like creating a whole arcade stick on your own is an impossible task, though through these resources, it was made relatively easy for myself, and possibly, for you!
