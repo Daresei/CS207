@@ -24,6 +24,9 @@ It may seem like creating a whole arcade stick on your own is an impossible task
 - Solder and a Soldering Irons can be purchased from your local tech shops, or can be purchased from [Amazon](https://www.amazon.ca/)
 - The Arduino Uno which we used in class, can also be purchased [here!](https://store.arduino.cc/usa/)
 - To connect the arduino to your computer you may need an extension cord such as this one [here!](https://www.newegg.com/black-startech-1-ft-usb-2-0/p/N82E16812200477)
+- You will want a set of materials that look like this:
+- ![YoloMouse_lp430lPOxp](https://user-images.githubusercontent.com/37276506/114811658-bcd3f100-9d6b-11eb-92f3-fbc926eac5da.png)
+
 
 #### Step 3: Designing
 - For button layouts and designs I found this very interesting site called [SlagCoin](http://slagcoin.com/joystick/layout.html).
