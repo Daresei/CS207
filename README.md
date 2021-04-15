@@ -2,7 +2,7 @@
 ##### For CS 207 at The University of Regina
 
 ## Fightsticks for PC
-
+![YoloMouse_KHlkVOtfXA](https://user-images.githubusercontent.com/37276506/114811537-7da5a000-9d6b-11eb-834d-268362636f9e.png)
 
 - Inspiration for Project:
 There are multiple quality fight sticks out there, from Etokki, Razer, Hori, and MadCatz, each one of these brands will run a person around $250 CAD. Which seems like an expense that could be avoided on an arcade fightstick you may not feel comfortable on. That's why I thought it would be best to create my own fight stick, one made just for me, by me.
@@ -41,7 +41,8 @@ There is a really good blog post by Terntek. found [Here!](http://terntek.com/bl
 * Wood stain
 * Screws
 - While assembling this project, I noticed how absolutely heavy the box was. This can be a plus if you do not plan on moving the box much, which in my case was quite a positive. Though, using light weight woods make the board slightly less sturdy, the tradeoff for transportability may be worth it.
-
+![YoloMouse_JhykeZTHeW](https://user-images.githubusercontent.com/37276506/114811557-85fddb00-9d6b-11eb-9e0c-a050fe243384.jpg)
+![chrome_rBN6gT5TlA](https://user-images.githubusercontent.com/37276506/114811561-87c79e80-9d6b-11eb-8f4f-acbe1cc989d3.png)
 
 ## Programming the Arduino
 For this part in the project, I directly searched and used the open source project called [UnoJoy](https://code.google.com/archive/p/unojoy/downloads).
